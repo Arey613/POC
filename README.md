@@ -1,2 +1,2 @@
 # POC
-POCs of some weird stuff
+POCs
